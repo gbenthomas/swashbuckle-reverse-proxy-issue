@@ -1,0 +1,15 @@
+/.vs
+/packages
+**/obj
+**/pkg
+**/bin
+**/obj
+**/**.user
+/aspnetcore-server-generated/aspnetcore-server
+/aspnetcore-server-generated.zip
+/_w/
+/bak
+/.swagger-codegen
+/aspnetcore-server-generated
+/aspnetcore-server-generated_1/aspnetcore-server
+/TestResults
